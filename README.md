@@ -1,9 +1,30 @@
-# FPT_FE
-website dau tien
+# eProject T1.2209.E1-eProject-Group_2
 
-Địa chỉ trang web: https://dustin9x.github.io/FPT_FE/
+CENTER NAME: ACE-HCMC-2-FPT
 
-Thông tin eProject
-  Thành viên:
-  1. ABC
-  2. XYZ
+Project title: Persol
+
+========> Group 2 <=========
+
+3 collaborators:
+
+Group members Name Student ID
+
+                    Lê Viết Đông            Student1390589
+                    Huỳnh Tấn Phước         Student1387826
+                    Trần Thụ Huy            Student1387816
+============================
+
+eProject documentation at: https://github.com/levietdongqt/Persol/tree/main/Review
+
+============================
+
+eProject published at: https://levietdongqt.github.io/Persol/#!/
+
+============================
+
+eProject video published at: https://www.youtube.com/watch?v=hKLdX05TzNQ
+
+============================
+
+Thank you for spending your time to look at our work.
